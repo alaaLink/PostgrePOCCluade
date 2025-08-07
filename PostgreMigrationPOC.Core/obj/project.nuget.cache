@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUmnEQonhIM=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Core\\PostgreMigrationPOC.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alaa.osama\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
+  ],
+  "logs": []
+}

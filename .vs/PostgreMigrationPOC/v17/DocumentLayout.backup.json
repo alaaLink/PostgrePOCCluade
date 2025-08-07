@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.postgres\\services\\datamigrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|solutionrelative:postgremigrationpoc.infrastructure.postgres\\services\\datamigrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB5E521-0E39-4A26-BB78-E9FACB44C866}|PostgreMigrationPOC.Console\\PostgreMigrationPOC.Console.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB5E521-0E39-4A26-BB78-E9FACB44C866}|PostgreMigrationPOC.Console\\PostgreMigrationPOC.Console.csproj|solutionrelative:postgremigrationpoc.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE0F7B-1E9F-41F8-8839-D0B5FC2314AA}|PostgreMigrationPOC.Core\\PostgreMigrationPOC.Core.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AE0F7B-1E9F-41F8-8839-D0B5FC2314AA}|PostgreMigrationPOC.Core\\PostgreMigrationPOC.Core.csproj|solutionrelative:postgremigrationpoc.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.postgres\\data\\postgresdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|solutionrelative:postgremigrationpoc.infrastructure.postgres\\data\\postgresdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.postgres\\migrations\\postgresdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|solutionrelative:postgremigrationpoc.infrastructure.postgres\\migrations\\postgresdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93569BE-D74F-4B23-A1E9-5325DEDA6588}|PostgreMigrationPOC.Infrastructure.SqlServer\\PostgreMigrationPOC.Infrastructure.SqlServer.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.sqlserver\\data\\sqlserverdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93569BE-D74F-4B23-A1E9-5325DEDA6588}|PostgreMigrationPOC.Infrastructure.SqlServer\\PostgreMigrationPOC.Infrastructure.SqlServer.csproj|solutionrelative:postgremigrationpoc.infrastructure.sqlserver\\data\\sqlserverdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93569BE-D74F-4B23-A1E9-5325DEDA6588}|PostgreMigrationPOC.Infrastructure.SqlServer\\PostgreMigrationPOC.Infrastructure.SqlServer.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.sqlserver\\data\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93569BE-D74F-4B23-A1E9-5325DEDA6588}|PostgreMigrationPOC.Infrastructure.SqlServer\\PostgreMigrationPOC.Infrastructure.SqlServer.csproj|solutionrelative:postgremigrationpoc.infrastructure.sqlserver\\data\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.infrastructure.postgres\\data\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F7ACD-F6BE-4C22-97F1-12A3C5899A3A}|PostgreMigrationPOC.Infrastructure.Postgres\\PostgreMigrationPOC.Infrastructure.Postgres.csproj|solutionrelative:postgremigrationpoc.infrastructure.postgres\\data\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB5E521-0E39-4A26-BB78-E9FACB44C866}|PostgreMigrationPOC.Console\\PostgreMigrationPOC.Console.csproj|d:\\dev\\postgrepco\\postgrepoccluade\\postgremigrationpoc.console\\services\\migrationorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB5E521-0E39-4A26-BB78-E9FACB44C866}|PostgreMigrationPOC.Console\\PostgreMigrationPOC.Console.csproj|solutionrelative:postgremigrationpoc.console\\services\\migrationorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Core\\Entities\\Product.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:16:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataMigrationService.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Services\\DataMigrationService.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.Postgres\\Services\\DataMigrationService.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Services\\DataMigrationService.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.Postgres\\Services\\DataMigrationService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAApwNAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:07:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostgresDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Migrations\\PostgresDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.Postgres\\Migrations\\PostgresDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Migrations\\PostgresDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.Postgres\\Migrations\\PostgresDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:07:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostgresDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContextFactory.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContextFactory.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:47:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostgresDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContext.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContext.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContext.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.Postgres\\Data\\PostgresDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:47:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlServerDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContextFactory.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContextFactory.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:11:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Console\\Program.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Console\\Program.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Console\\Program.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Console\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:35:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MigrationOrchestrator.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Console\\Services\\MigrationOrchestrator.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Console\\Services\\MigrationOrchestrator.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Console\\Services\\MigrationOrchestrator.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Console\\Services\\MigrationOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:32:07.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlServerDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContext.cs",
+              "RelativeDocumentMoniker": "PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContext.cs",
+              "ToolTip": "D:\\Dev\\PostgrePCO\\PostgrePOCCluade\\PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContext.cs",
+              "RelativeToolTip": "PostgreMigrationPOC.Infrastructure.SqlServer\\Data\\SqlServerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:31:49.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
